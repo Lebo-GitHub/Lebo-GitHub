@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Lebo-GitHub
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java,Python,HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on small real-world Software Developmet Task/Projects even voluntarily work to gain experience
 - 📫 How to reach me,My email address is mongale2018@gmail.com and my phone number 071 069 4711
 
